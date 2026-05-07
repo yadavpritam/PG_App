@@ -80,6 +80,12 @@ Users can add PGs with:
 
 # Screenshots
 
+# Demo Video
+
+Watch App Demo Here:
+
+https://drive.google.com/file/d/1o2T27k7iqfrO5OcHaac_dC070SFEWknT/view?usp=sharing
+
 > Add your application screenshots here
 
 ```text
