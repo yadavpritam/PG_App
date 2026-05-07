@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "583288258061",
+    "project_id": "pg-app-ea0c5",
+    "storage_bucket": "pg-app-ea0c5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583288258061:android:acb6cc55138fa525a71f44",
+        "android_client_info": {
+          "package_name": "com.example.pgapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583288258061-p5lh4sqhpdt7bh7mabb4mldfp3dckvd3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-OeHs4-r3-Xp_eOgKWxrEk2yp_XDocDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583288258061-p5lh4sqhpdt7bh7mabb4mldfp3dckvd3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
